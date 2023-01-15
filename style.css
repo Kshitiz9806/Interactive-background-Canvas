@@ -20,7 +20,7 @@ body
 }
 canvas
 {
-	background-color:green;
+	background-color:white;
 	z-index:1;
 }
 p#text
